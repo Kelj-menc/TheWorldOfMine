@@ -1,4 +1,4 @@
 # TheWorldOfMine
-prvi rep kreiram da bi protrcao kroz tut
+My first repository created just for playing around with platform basics
 
-Ako sad citas ovo i razumes me ... jebo sam mu github kevu kad sam commit prvi uradio!!
+If you read this and actually undertand why I'm doing this we can build smthing together... Ain't we?
